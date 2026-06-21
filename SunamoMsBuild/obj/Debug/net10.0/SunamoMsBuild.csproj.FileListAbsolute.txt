@@ -1,0 +1,14 @@
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\bin\Debug\net10.0\SunamoMsBuild.deps.json
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\bin\Debug\net10.0\SunamoMsBuild.dll
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\bin\Debug\net10.0\SunamoMsBuild.pdb
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\bin\Debug\net10.0\SunamoMsBuild.xml
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\SunamoMsBuild.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\SunamoMsBuild.AssemblyInfoInputs.cache
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\SunamoMsBuild.AssemblyInfo.cs
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\SunamoMsBuild.csproj.CoreCompileInputs.cache
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\SunamoMsBuild.sourcelink.json
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\SunamoMsBuild.dll
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\refint\SunamoMsBuild.dll
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\SunamoMsBuild.xml
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\SunamoMsBuild.pdb
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoMsBuild\SunamoMsBuild\obj\Debug\net10.0\ref\SunamoMsBuild.dll

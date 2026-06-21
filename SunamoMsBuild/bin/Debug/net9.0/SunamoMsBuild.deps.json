@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SunamoMsBuild/26.5.18.8": {
+        "runtime": {
+          "SunamoMsBuild.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SunamoMsBuild/26.5.18.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
