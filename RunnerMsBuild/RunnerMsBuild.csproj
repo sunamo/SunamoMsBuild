@@ -7,6 +7,6 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SunamoMsBuild.Tests\SunamoMsBuild.Tests.csproj" />
+    <ProjectReference Include="..\SunamoMsBuild\SunamoMsBuild.csproj" />
   </ItemGroup>
 </Project>

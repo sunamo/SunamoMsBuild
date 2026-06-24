@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("www.sunamo.cz")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("MSBuild enums and values extracted from SunamoDevCode.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("26.6.21.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("26.6.21.1+f7b03f15e55ec3c35990c3b7711dd9fee4d701b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("26.6.21.1+a9c1c1e9108d2d0514feace3f26fd80a4db96824")]
 [assembly: System.Reflection.AssemblyProductAttribute("SunamoMsBuild")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SunamoMsBuild")]
 [assembly: System.Reflection.AssemblyVersionAttribute("26.6.21.1")]
