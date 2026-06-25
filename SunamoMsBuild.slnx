@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RunnerMsBuild\\RunnerMsBuild.csproj" />
+  <Project Path="RunnerSunamoMsBuild\\RunnerSunamoMsBuild.csproj" />
+  <Project Path="SunamoMsBuild\\SunamoMsBuild.csproj" />
+  <Project Path="SunamoMsBuild.Tests\\SunamoMsBuild.Tests.csproj" />
+</Solution>

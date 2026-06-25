@@ -1,4 +1,4 @@
-namespace SunamoDevCode.MsBuild.Values;
+namespace SunamoMsBuild.MsBuild.Values;
 
 public class ProjectFrameworks
 {

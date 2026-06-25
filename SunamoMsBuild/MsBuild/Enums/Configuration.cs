@@ -1,4 +1,4 @@
-namespace SunamoDevCode.MsBuild.Enums;
+namespace SunamoMsBuild.MsBuild.Enums;
 
 public enum Configuration
 {
