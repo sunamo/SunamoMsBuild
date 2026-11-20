@@ -5,7 +5,6 @@
     <Platforms>AnyCPU;x86</Platforms>
     <Version>26.9.28.3</Version>
     <Description>MSBuild enums and values extracted from SunamoDevCode.</Description>
-    <PackageReleaseNotes>Odstraneni sledovaneho bin/obj z remote</PackageReleaseNotes>
     <Authors>www.sunamo.cz</Authors>
     <Copyright>www.sunamo.cz</Copyright>
     <PackageProjectUrl>https://sunamo.github.io/PlatformIndependentNuGetPackages/SunamoMsBuild/</PackageProjectUrl>
@@ -19,7 +18,7 @@
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <EmbedAllSources>true</EmbedAllSources>
-    <Optimize>false</Optimize>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
   </PropertyGroup>
   <PropertyGroup>
     <DebugType>portable</DebugType>
@@ -33,5 +32,8 @@
   </ItemGroup>
   <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" Pack="True" PackagePath="." />
   </ItemGroup>
 </Project>
